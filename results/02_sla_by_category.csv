@@ -1,0 +1,6 @@
+category,tickets,avg_hours_to_resolve,sla_breach_pct,misrouted_pct,waited_for_info_pct,breach_rank
+Equipment fault,1174,47.1,63.5,3.6,18.2,1
+Access and accounts,1061,31.7,33.9,37.2,18.0,2
+Data request,868,27.4,29.5,5.3,18.5,3
+Billing system,1265,27.4,28.7,5.0,19.7,4
+Network incident,1632,24.8,25.7,4.2,19.9,5

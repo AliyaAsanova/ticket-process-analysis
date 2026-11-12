@@ -1,0 +1,4 @@
+channel,tickets,waited_for_info_pct,avg_wait_hours_when_it_happens,total_hours_lost,sla_breach_pct
+email,1820,45.5,16.8,13927.0,42.5
+phone,1155,12.6,16.8,2450.0,33.7
+portal,3025,5.5,16.5,2720.0,32.5

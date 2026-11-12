@@ -1,0 +1,15 @@
+assigned_on,priority_group,tickets,avg_queue_hours
+1 Mon,P1,83,1.5
+2 Tue,P1,82,1.4
+3 Wed,P1,76,1.3
+4 Thu,P1,93,1.4
+5 Fri,P1,98,1.4
+6 Sat,P1,83,1.4
+7 Sun,P1,91,1.4
+1 Mon,P2-P3,562,4.2
+2 Tue,P2-P3,617,4.5
+3 Wed,P2-P3,591,4.4
+4 Thu,P2-P3,654,4.6
+5 Fri,P2-P3,613,29.5
+6 Sat,P2-P3,599,44.7
+7 Sun,P2-P3,584,20.3

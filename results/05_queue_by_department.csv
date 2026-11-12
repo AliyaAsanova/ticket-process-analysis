@@ -1,0 +1,5 @@
+department,tickets,avg_queue_hours,max_queue_hours,total_queue_hours,share_of_queue_time_pct
+Field service,1174,32.1,178.7,37678.0,35.5
+IT infrastructure,1061,15.5,70.4,16410.0,15.5
+Billing systems,2133,14.3,71.0,30419.0,28.7
+Network operations,1632,13.2,67.2,21479.0,20.3

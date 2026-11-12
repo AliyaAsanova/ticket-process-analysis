@@ -1,0 +1,5 @@
+scenario,sla_breach_pct,avg_hours_to_resolve
+Today,35.7,31.3
+No misrouting,32.2,29.1
+No waiting for info,30.6,28.1
+Both fixed,26.6,25.9

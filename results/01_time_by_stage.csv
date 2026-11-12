@@ -1,0 +1,7 @@
+step,tickets,avg_hours_when_it_happens,total_hours,share_of_all_time_pct
+Assigned (queue),6000,17.7,105986.0,56.4
+In progress,6000,6.8,40684.0,21.7
+Waiting for info,1140,16.8,19097.0,10.2
+Assigned (wrong department),615,22.0,13509.0,7.2
+Registered,6000,0.8,4988.0,2.7
+Triage,6000,0.6,3614.0,1.9
